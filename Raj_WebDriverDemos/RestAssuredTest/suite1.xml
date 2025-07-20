@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<listeners>
+		<listener
+			class-name="com.Listerners.ExtentTestNGITestListener" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			
+			<class name="TelecomProject.TC1_AddNewUser" />
+			<class name="TelecomProject.TC2_GetUserProfile" />
+			<class name="TelecomProject.TC3_UpdateUser" />
+			<class name="TelecomProject.TC4_LoginUser" />
+			<class name="TelecomProject.TC5_AddContact" />
+			<class name="TelecomProject.TC6_GetContactList" />
+			<class name="TelecomProject.TC7_GetContact" />
+			<class name="TelecomProject.TC8_UpdateContact1" />
+			<class name="TelecomProject.TC9_UpdateContact2" />
+			<class name="TelecomProject.TC10_LogoutUser" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
