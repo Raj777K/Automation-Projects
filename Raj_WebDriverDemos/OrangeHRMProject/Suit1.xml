@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OrangeHRM_Suite">
+
+    <listeners>
+        <listener class-name="listeners.ExtentTestNGITestListener" />
+    </listeners>
+
+    <test name="OrangeHRM_Tests">
+        <classes>
+            <class name="tests.Scenario1_LoginDDT_Test"/>
+            <class name="tests.Scenario2_AdminPOM_Test"/>
+        </classes>
+    </test>
+
+</suite>
