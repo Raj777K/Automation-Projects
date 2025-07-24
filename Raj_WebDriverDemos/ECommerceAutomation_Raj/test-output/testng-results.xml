@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="6" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-24T21:04:26 IST" name="Suite" finished-at="2025-07-24T21:06:57 IST" duration-ms="150984">
+    <groups>
+    </groups>
+    <test started-at="2025-07-24T21:04:26 IST" name="Test" finished-at="2025-07-24T21:06:57 IST" duration-ms="150984">
+      <class name="bstackdemo__TestCase.CartTests_02">
+        <test-method is-config="true" signature="reportsetup()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:04:26 IST" name="reportsetup" finished-at="2025-07-24T21:04:26 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:04:26 IST" name="setup" finished-at="2025-07-24T21:04:37 IST" duration-ms="10937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_004_AddSingleItemToCart()[pri:1, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:04:37 IST" name="TC_004_AddSingleItemToCart" finished-at="2025-07-24T21:04:43 IST" duration-ms="5706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_AddSingleItemToCart -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:04:43 IST" name="closeup" finished-at="2025-07-24T21:04:43 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:04:43 IST" name="setup" finished-at="2025-07-24T21:04:54 IST" duration-ms="10650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC005_addmultipleitemToCart()[pri:2, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:04:54 IST" name="TC005_addmultipleitemToCart" finished-at="2025-07-24T21:05:06 IST" duration-ms="12257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005_addmultipleitemToCart -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:05:06 IST" name="closeup" finished-at="2025-07-24T21:05:06 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:05:06 IST" name="setup" finished-at="2025-07-24T21:05:17 IST" duration-ms="10347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC006_removeitemToCart()[pri:3, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:05:17 IST" name="TC006_removeitemToCart" finished-at="2025-07-24T21:05:29 IST" duration-ms="12558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006_removeitemToCart -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:05:29 IST" name="closeup" finished-at="2025-07-24T21:05:29 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+        <test-method is-config="true" signature="reportsaving()[pri:0, instance:bstackdemo__TestCase.CartTests_02@68746f22]" started-at="2025-07-24T21:06:56 IST" name="reportsaving" finished-at="2025-07-24T21:06:57 IST" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsaving -->
+      </class> <!-- bstackdemo__TestCase.CartTests_02 -->
+      <class name="bstackdemo__TestCase.LoginTest_01">
+        <test-method is-config="true" signature="reportsetup()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:04:26 IST" name="reportsetup" finished-at="2025-07-24T21:04:26 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:05:29 IST" name="setup" finished-at="2025-07-24T21:05:37 IST" duration-ms="7953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLoginTest()[pri:1, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:05:37 IST" name="validLoginTest" finished-at="2025-07-24T21:05:41 IST" duration-ms="3334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:05:41 IST" name="teardown" finished-at="2025-07-24T21:05:41 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:05:41 IST" name="setup" finished-at="2025-07-24T21:05:48 IST" duration-ms="7087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidLoginTest()[pri:2, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:05:48 IST" name="InvalidLoginTest" finished-at="2025-07-24T21:05:51 IST" duration-ms="2864" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Invalid  username/password: locked_user/testingisfun99]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Invalid  username/password: locked_user/testingisfun99
+at org.testng.Assert.fail(Assert.java:110)
+at bstackdemo__TestCase.LoginTest_01.InvalidLoginTest(LoginTest_01.java:66)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:05:51 IST" name="teardown" finished-at="2025-07-24T21:05:51 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:05:51 IST" name="setup" finished-at="2025-07-24T21:06:00 IST" duration-ms="8757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EmptyLoginTest()[pri:3, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:06:00 IST" name="EmptyLoginTest" finished-at="2025-07-24T21:06:03 IST" duration-ms="2934" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Empty username/password: locked_user / ----- ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Empty username/password: locked_user / ----- 
+at org.testng.Assert.fail(Assert.java:110)
+at bstackdemo__TestCase.LoginTest_01.EmptyLoginTest(LoginTest_01.java:78)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyLoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:06:03 IST" name="teardown" finished-at="2025-07-24T21:06:03 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="reportsaving()[pri:0, instance:bstackdemo__TestCase.LoginTest_01@78fa769e]" started-at="2025-07-24T21:06:57 IST" name="reportsaving" finished-at="2025-07-24T21:06:57 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsaving -->
+      </class> <!-- bstackdemo__TestCase.LoginTest_01 -->
+      <class name="bstackdemo__TestCase.CheckOutTest_03">
+        <test-method is-config="true" signature="reportsetup()[pri:0, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:04:26 IST" name="reportsetup" finished-at="2025-07-24T21:04:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:06:03 IST" name="setup" finished-at="2025-07-24T21:06:14 IST" duration-ms="10921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_007_CheckoutProcess()[pri:1, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:06:14 IST" name="TC_007_CheckoutProcess" finished-at="2025-07-24T21:06:25 IST" duration-ms="10530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007_CheckoutProcess -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:06:25 IST" name="closeup" finished-at="2025-07-24T21:06:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:06:25 IST" name="setup" finished-at="2025-07-24T21:06:50 IST" duration-ms="25570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_008_checkoutWithoutAddingItems()[pri:2, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:06:50 IST" name="TC_008_checkoutWithoutAddingItems" finished-at="2025-07-24T21:06:56 IST" duration-ms="5282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008_checkoutWithoutAddingItems -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:06:56 IST" name="closeup" finished-at="2025-07-24T21:06:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+        <test-method is-config="true" signature="reportsaving()[pri:0, instance:bstackdemo__TestCase.CheckOutTest_03@16612a51]" started-at="2025-07-24T21:06:57 IST" name="reportsaving" finished-at="2025-07-24T21:06:57 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsaving -->
+      </class> <!-- bstackdemo__TestCase.CheckOutTest_03 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
